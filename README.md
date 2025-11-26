@@ -25,7 +25,7 @@ recognition in basebal 등 폭넓은 비전 태스크의 연구를 진행해왔�
 
 ## 🧠 Interests
 
-- Vision-language model
+- **Vision-language model**
 - Multi-modal learning
 - Surveillance video captioning & 보안 관제용 멀티모달 시스템  
 - Open-vocabulary video anomaly detection  
