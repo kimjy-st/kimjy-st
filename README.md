@@ -3,7 +3,7 @@
 
 저는 서울과학기술대학교 인공지능응용학과 석사 과정에 재학중이며, Surveilance video captioning,
 open-vocabulary video anomaly detection, open-vocabulary semantic segmentation, action
-recognition in basebal 등 폭넓은 비전 태스크의 연구를 진행해왔습니다. 또한, 야구 태그아웃 판독
+recognition in baseball 등 폭넓은 비전 태스크의 연구를 진행해왔습니다. 또한, 야구 태그아웃 판독
 시스템을 개발하여 객체 간 상호작용을 모델링하고 프레임별 중요도를 시각화하는 설명 가능한 AI를
 구현한 경험과 같이 실무 프로젝트를 통해 공부한 이론을 실제 적용 가능한 솔루션으로 구현하는
 경험을 쌓아왔으며 다양한 컴퓨터비전 기술을 활용해 실질적인 문제를 해결하는 것에 큰 관심을 갖고
