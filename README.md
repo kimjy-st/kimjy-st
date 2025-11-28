@@ -1,4 +1,6 @@
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=80b0ff&height=120&text=Jeongyeon%20Kim&animation=&fontColor=ffffff&fontSize=50" />
+    </div>
 
 # 안녕하세요! 컴퓨터 비전 연구자 김정연입니다.
 
