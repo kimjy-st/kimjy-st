@@ -53,8 +53,8 @@ recognition in baseball 등 폭넓은 비전 태스크의 연구를 진행해왔
 **International**
 - **Open Vocabulary Segmentation with Context-Aware Text Embedding**, Knowledge-Based Systems, submitted.  
 - **Data-Efficient Electricity Consumption Forecasting with a Tabular Foundation Model**, ICTC 2025.  
-- **TAVAD:Open-Vocabulary Temporal-Aware Video Anomaly Detection**, IEEE Access, in writing.  
-- **Dynamic Hierarchical Clustering with Novel Metrics for Efficient Visual Document Retrieval**, IEEE Access, in writing.
+- **TAVAD:Open-Vocabulary Temporal-Aware Video Anomaly Detection**, Neuro Computing, in writing.  
+- **Dynamic Hierarchical Clustering with Novel Metrics for Efficient Visual Document Retrieval**, SIGIR, in writing.
 
 **Domestic**
 - **개방형 어휘 비용 집계를 활용한 비디오 이상치 탐지**, 대한전자공학회 학술대회, pp. 2986–2989, 2025.
